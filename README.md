@@ -1,25 +1,59 @@
- ## Hi, I'm Aalbin!
-👩🏻‍💻 Engineer Student sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studing Computer Science(Cyber Security) at the Amal Jyothi College of Engineering, India<br/>
-
-
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file-->
-
-
-
-
-
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aalbin-joseph-8a068332b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:josephaalbin777@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aaljo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaljo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h1 align="center">Hi 👋, I'm Aalbin</h1>
+<h3 align="center">Cyber Security Student | Developer | Tech Enthusiast</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aaljo&icon=3&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+- 🎓 BTech Cyber Security Student  
+- 💻 Passionate about Ethical Hacking & Development  
+- 🌱 Currently learning: Advanced Cyber Security & Web Dev  
+- 🎯 Goal: Become a Cyber Security Expert  
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:YOURMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+</p>
+
+---
+
+## 🛠 Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,java,html,css,figma,linux,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Most Used Languages
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (AUTO ANIMATION)
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+## 🔥 Projects
+- 🚀 Cyber Security Scanner Tool  
+- 📊 Priority Scheduler Project  
+- 🛡️ Malware Detection System  
+
+---
+
+## ⚡ Fun Fact
+> "I don’t just use technology — I secure it 🔐"
