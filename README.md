@@ -39,9 +39,9 @@
 
 ---
 
-## 🐍 Contribution Snake (AUTO ANIMATION)
+## 🐍 Contribution Snake
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/Aaljo/Aaljo/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
