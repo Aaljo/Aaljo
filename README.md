@@ -13,8 +13,12 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="www.linkedin.com/in/aalbin-joseph-8a068332b"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:josephaalbin777@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/aalbin-joseph-8a068332b">
+    <img src="https://img.shields.io/badge/LinkedIn-Aalbin%20Joseph-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:josephaalbin777@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail">
+  </a>
 </p>
 
 ---
