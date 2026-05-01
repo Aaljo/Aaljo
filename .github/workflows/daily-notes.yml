@@ -1,0 +1,31 @@
+name: Daily Notes Update
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-notes:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Update notes file
+        run: |
+          DATE=$(date)
+          echo "## $DATE" >> daily.md
+          echo "- Learned something new about cybersecurity" >> daily.md
+          echo "" >> daily.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "Aaljo"
+          git config --global user.email "josephaalbin777@gmail.com"
+          git add .
+          git commit -m "Daily learning update"
+          git push
