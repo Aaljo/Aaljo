@@ -1,13 +1,18 @@
-<h1 align="center">Hi 👋, I'm Aalbin</h1>
-<h3 align="center">Cyber Security Student | Developer | Tech Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Aalbin Joseph</h1>
+<h3 align="center">🔐 Cyber Security Student | 💻 Developer | 🚀 Tech Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=500&lines=Cyber+Security+Learner;Ethical+Hacking+Enthusiast;Building+Real+Projects;Always+Learning+New+Things" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 - 🎓 BTech Cyber Security Student  
-- 💻 Passionate about Ethical Hacking & Development  
-- 🌱 Currently learning: Advanced Cyber Security & Web Dev  
-- 🎯 Goal: Become a Cyber Security Expert  
+- 🔐 Passionate about Ethical Hacking & Security Tools  
+- 💻 Building real-world projects  
+- 🚀 Currently learning: Networking & Cyber Security  
+- 🎯 Goal: Cyber Security Specialist  
 
 ---
 
@@ -23,39 +28,39 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Arsenal
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,java,html,css,figma,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,linux,git,github,figma" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aaljo&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaljo&theme=tokyonight" />
-</p>
-
-## 🧠 Most Used Languages
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaljo&layout=compact&theme=tokyonight" />
+  <img src="https://ghchart.rshah.org/409ba5/Aaljo" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-<img src="https://raw.githubusercontent.com/Aaljo/Aaljo/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Aaljo/Aaljo/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
 
-## 🔥 Projects
-- 🚀 Cyber Security Scanner Tool  
-- 📊 Priority Scheduler Project  
-- 🛡️ Malware Detection System  
+## 🚀 Featured Projects
+- 🔐 Password Strength Checker  
+- 🌐 Port Scanner (Python)   
+- 📊 CPU Scheduling Simulator  
 
 ---
 
-## ⚡ Fun Fact
-> "I don’t just use technology — I secure it 🔐"
+## 💡 Quote
+> "Security is not a product, it's a process." 🔐
+
+---
+
+<p align="center">
+  ⭐ From <b>Aalbin Joseph</b> | Keep Building 🚀
+</p>
